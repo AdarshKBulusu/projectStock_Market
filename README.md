@@ -13,6 +13,7 @@ You can also place a limit order and/or set the quantity of stock you would like
 You cal also place the same limit option as well quantity
 
 **RSI_BUY_SELL.py**
+
 Includes code needed to buy and sell shares according to their RSI values 
 This strategy typically makes small, but consistent, gains ;however,check your account restrictions to avoid being flagged as a Pattern Day Trade (PDT). 
 
@@ -22,6 +23,7 @@ After adding your email and password to the login function, add your desired sto
 Must be run through terminal because the ROBIN_CALLS.py is set to execute in a command line interface.
 
 **SENTIMENT_MACD.py**
+
 *Work in Progress*
 
 Based off of the RSI_BUY_SELL.py attempts to use polarity score as a factor in determining wheter to purchase a stock. Additionally, works buy using the 
