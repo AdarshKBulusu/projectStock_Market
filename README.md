@@ -1,4 +1,14 @@
-## Stock Market Programs
+# Stock Market Programs
+
+### Python Packages Needed
+
+1. robin_stocks
+2. click
+3. tulipy
+4. os
+5. time
+6. alpaca_trade_api
+7. time
 
 **ROBIN_CALLS.py**
 
